@@ -1,7 +1,7 @@
 # Cat-Facts
 This is a app made with Tkinter and Httplib2.This app was built using 
 -
-[Cat Facts API]([https://pages.github.com/](https://catfact.ninja/)https://catfact.ninja/).
+[Cat Facts API]((https://catfact.ninja/).
 
 You can use this snippet I made with the proper imports
 ```
