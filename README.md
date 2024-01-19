@@ -64,8 +64,10 @@ B.pack()
 
 ```
 #How to use it.
-When you open the app you come a cross a text window, three buttons:Fact, Exit and Help.
-When you click fact it shows *obviously* the fact.
-when you click exit it  *obviously* exits the app
-When you click Help it comes to this part of the Readme file.
-By 0zan (a.k.a smartlizardpy)
+-When you open the app you come a cross a text window, three buttons:Fact, Exit and Help.
+*When you click fact it shows *obviously* the fact.
+*when you click exit it  *obviously* exits the app
+-When you click Help it comes to this part of the Readme file.
+
+
+-By 0zan (a.k.a smartlizardpy)-
